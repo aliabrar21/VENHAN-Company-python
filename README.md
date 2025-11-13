@@ -48,7 +48,7 @@ library-management-python/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/aliabrar21/VENHAN-Company-python
 cd library-management-python
 ```
 
@@ -90,5 +90,5 @@ This project demonstrates:
 
 ---
 
-**Author:** Subbareddy K
+**Author:** Abrar Ali
 **Language:** Python 3.13.9
